@@ -189,7 +189,7 @@ namespace AddressSearch.AdressesInfo
             {
                 City = new City
                 {
-                    Nome = "S",
+                    Nome = "São Paulo",
                     Estado = "São Paulo",
                     Pais = "Brasil",
                     Populacao = 12396372,
